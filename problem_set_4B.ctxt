@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=problem_set_4B
+comment0.text=\r\n\ this\ set\ contains\ a\ palidrome\ checker,\ \r\n\ a\ pig\ latin\ translator,\ \r\n\ a\ method\ to\ figure\ out\ many\ numer\ in\ strictly\ ascending\ order\ in\ between\ a\ min\ and\ max\ and\ \r\n\ a\ times\ table\ generator\r\n\r\n\ @author\ (Julian\ Ryan)\r\n\ @version\ (23/10/24)\r\n
+comment1.params=str
+comment1.target=java.lang.String\ Palindrome(java.lang.String)
+comment2.params=str
+comment2.target=java.lang.String\ pigLatin(java.lang.String)
+comment3.params=min\ max
+comment3.target=int\ StrictlyAscendingNumbers(int,\ int)
+comment4.params=n
+comment4.target=void\ Timestable(int)
+numComments=5
